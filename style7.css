@@ -3,6 +3,7 @@
 }
 
 .navbar{
+	background-color: white;
 	font-family: sans-serif;
 	margin-top: 20px;
 	text-align: center;
@@ -18,6 +19,7 @@
 	padding: 10px;
 	border-radius: 10px;
 	background-color: lightgray;
+	border: none;
 }
 
 .navbar img{
@@ -47,6 +49,7 @@
   	display: table-cell; 
   	position: relative; 
   	padding: 15px 0;
+  	border: 1px;
 }
 
 .secnavbar ul li a{
